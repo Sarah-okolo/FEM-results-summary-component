@@ -7,7 +7,7 @@ function App() {
   // Function to fetch scores data from json file.
   const fetchscores = async () => {
     try {
-      const res = await fetch('/data.json');
+      const res = await fetch('../data.json');
       setData(await res.json());
     } catch (err) {
       console.log(`Opps, it seems an error occured: ${err}`);
