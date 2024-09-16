@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/Sarah-okolo/FEM-results-summary-component](https://github.com/Sarah-okolo/FEM-results-summary-component)
+- Live Site URL: [https://results-summary-component-by-sarah.netlify.app/](https://results-summary-component-by-sarah.netlify.app/)
 
 ## My process
 The following are the steps I followed to build out the solution for this challenge:
@@ -60,7 +60,7 @@ The following are the steps I followed to build out the solution for this challe
 
 ### What I learned
 
-In this project I was able to learn how to asynchronously fetch an API in React and how to render a component with the data gotten back from the API.
+In this project, I was able to learn how to asynchronously fetch an API in React and how to render a component with the data gotten back from the API.
 
 ## Author
 
